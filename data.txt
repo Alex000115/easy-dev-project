@@ -1,0 +1,5 @@
+Project Data File
+
+- This file is used to store simple text data
+- You can update this file daily for practice
+- Every update increases your GitHub contributions
